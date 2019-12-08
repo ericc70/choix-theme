@@ -1,0 +1,21 @@
+html,body{margin:0;padding:0; background-color: rgb(39, 36, 36);}
+body{font: 76% arial,sans-serif;text-align:center}
+p{margin:0 10px 10px}
+a{padding:5px; text-decoration:none; color:#30ad0a;}
+#header{background-color:rgb(2, 1, 0);}
+#header h1{height:80px;line-height:80px;margin:0;padding-left:10px;color:#30ad0a;}
+#container{text-align:left}
+#content p{line-height:1.4}
+#navigation{background:rgb(63, 63, 63);}
+#navigation ul{margin:15px 0; padding:0; list-style-type:none;}
+#navigation li{margin-bottom:5px;}
+#extra{background:rgb(63, 63, 63);}
+#footer{background:rgb(0, 0, 0);}
+#footer p{margin:0;padding:5px 10px}
+#container{width:700px;margin:0 auto}
+#wrapper{float:left;width:100%}
+#content{margin: 0 150px}
+#navigation{float:left;width:150px;margin-left:-700px}
+#extra{float:left;width:150px;margin-left:-150px}
+#footer{clear:left;width:100%}
+#footer span{color:#30ad0a;)
